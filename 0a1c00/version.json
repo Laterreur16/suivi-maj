@@ -1,9 +1,13 @@
 {
-  "versionCode": 17,
-  "versionName": "1.16",
+  "versionCode": 18,
+  "versionName": "1.17",
   "apk": "suivi-affaires.apk",
-  "sha256": "577774a2db645bb7dcdd0d9e4c762eaf731dc2d60e88a489e2f3ea9fa6a198f0",
+  "sha256": "ebe22250f6ef345d9f5fafaa237d0b99fe06fc75a1ded22baf9b4f967b14b5cb",
   "notes": [
-    "La date et le nombre de photos/vidéos ne sont plus affichés dans la liste : on voit le numéro, le client, la pièce et la cadence."
+    "Réglages : nouvelle icône en roue dentée avec le mot « Réglages », et un menu de 5 catégories (Apparence, Photos et PDF, Sauvegarde et corbeille, Collègues, Mises à jour).",
+    "Corbeille : une affaire supprimée est gardée 5 jours et peut être restaurée dans Réglages > Sauvegarde et corbeille. Après 5 jours, elle est effacée pour de bon avec ses photos.",
+    "Fiche : essais de cadence colorés (vert si la cadence visée est atteinte, orange en dessous), chiffres plus grands, pastille de cadence en haut de la fiche.",
+    "Photos : bouton « Tout » supprimé, et une petite icône à côté de « Sélectionner » pour passer des petites aux grandes vignettes.",
+    "Informations : Date et État sur la même ligne, zone de notes plus haute."
   ]
 }
