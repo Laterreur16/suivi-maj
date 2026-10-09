@@ -1,9 +1,10 @@
 {
-  "versionCode": 20,
-  "versionName": "1.19",
+  "versionCode": 21,
+  "versionName": "1.20",
   "apk": "suivi-affaires.apk",
-  "sha256": "1edacdb254f3a328c752b03f8fbea7869dd54ff4bf50fd066313743f83f387e1",
+  "sha256": "b6b784fff3d9926bccb975f62c2ec7c91c2def50d2c08da037a056fc82c73218",
   "notes": [
+    "Les réglages d'apparence reviennent comme en 1.18 (les ajouts de la 1.19 sont retirés).",
     "Liste : les boutons « Toutes / En cours / Terminée » sont supprimés (l'état est déjà écrit sur chaque affaire).",
     "Icône de l'affaire : touche l'icône dans la fiche pour zoomer et déplacer l'échantillon (deux doigts ou curseur), changer de photo, puis enregistrer. Le réglage est gardé pour le modifier plus tard.",
     "PDF refait : bandeau à la couleur de l'appli avec l'icône de l'affaire, cartes Date/État/Cadence, essais en cases vertes ou orange, photos plus grandes aux coins arrondis, pied de page.",
