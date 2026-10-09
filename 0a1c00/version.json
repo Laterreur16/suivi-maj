@@ -1,0 +1,11 @@
+{
+  "versionCode": 14,
+  "versionName": "1.13",
+  "apk": "suivi-affaires.apk",
+  "sha256": "f9a758fa114a7f9821117e555830ac2fd964726b8e5fa41b2a59592ec3b75f1c",
+  "notes": [
+    "Nouvelle rubrique Mises à jour dans les réglages : on tape l'adresse et le code du serveur de l'ordinateur, l'appli cherche la nouvelle version, la télécharge et lance l'installation.",
+    "Au démarrage, l'appli vérifie discrètement s'il y a une mise à jour et le signale en haut de la liste.",
+    "La page de l'appli reste coupée d'internet : seul le téléchargement de la mise à jour utilise le réseau, et uniquement vers l'adresse que tu as saisie."
+  ]
+}
