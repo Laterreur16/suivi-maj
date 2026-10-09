@@ -1,10 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
+  "versionCode": 17,
+  "versionName": "1.16",
   "apk": "suivi-affaires.apk",
-  "sha256": "673dc0b8986b106cd4823fae8ca64a9fc62aad4123d2bc327305715bb34bf69e",
+  "sha256": "577774a2db645bb7dcdd0d9e4c762eaf731dc2d60e88a489e2f3ea9fa6a198f0",
   "notes": [
-    "Dans Réglages > Mises à jour, l'adresse n'a plus besoin de commencer par https:// : l'appli l'ajoute toute seule.",
-    "Texte d'aide mis à jour pour les mises à jour par internet."
+    "La date et le nombre de photos/vidéos ne sont plus affichés dans la liste : on voit le numéro, le client, la pièce et la cadence."
   ]
 }
