@@ -1,11 +1,13 @@
 {
-  "versionCode": 19,
-  "versionName": "1.18",
+  "versionCode": 20,
+  "versionName": "1.19",
   "apk": "suivi-affaires.apk",
-  "sha256": "d6e29e8663a8b757aaaca1a6a9f3eea9c0ced1535aa55933e5adf24a8a7f582c",
+  "sha256": "86e1291ba6400aa6b7645c450b58bedf33a95e240f1e31f244d9bbf5e61c6535",
   "notes": [
-    "Les miniatures des photos sont plus grandes et de meilleure qualité (les anciennes sont refaites automatiquement à la première ouverture d'une affaire).",
-    "Le bouton pour agrandir ou réduire les vignettes est supprimé : les photos s'affichent toujours en 3 colonnes.",
-    "Le bouton Réglages a la même taille que les deux autres boutons."
+    "Réglages > Apparence : taille du texte, fond de l'appli (noir profond, bleu nuit, anthracite, clair chaud, blanc pur), forme des coins, couleurs de « En cours », « Terminée » et de la cadence.",
+    "Liste : taille de l'icône, choix de ce qu'on voit sur chaque carte (pièce, cadence, bouton photo) et liste compacte. Fiche : 2, 3 ou 4 photos par ligne. Bouton « Tout remettre par défaut ».",
+    "Icône de l'affaire : touche l'icône dans la fiche pour zoomer et déplacer l'échantillon (deux doigts ou curseur), changer de photo, puis enregistrer. Le réglage est gardé pour le modifier plus tard.",
+    "PDF refait : bandeau à la couleur de l'appli avec l'icône de l'affaire, cartes Date/État/Cadence, essais en cases vertes ou orange, photos plus grandes aux coins arrondis, pied de page.",
+    "Export : nouvelle case « Joindre les photos en fichiers » pour envoyer les photos avec le PDF et les enregistrer sur l'ordinateur."
   ]
 }
