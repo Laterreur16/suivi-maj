@@ -1,13 +1,11 @@
 {
-  "versionCode": 18,
-  "versionName": "1.17",
+  "versionCode": 19,
+  "versionName": "1.18",
   "apk": "suivi-affaires.apk",
-  "sha256": "ebe22250f6ef345d9f5fafaa237d0b99fe06fc75a1ded22baf9b4f967b14b5cb",
+  "sha256": "d6e29e8663a8b757aaaca1a6a9f3eea9c0ced1535aa55933e5adf24a8a7f582c",
   "notes": [
-    "Réglages : nouvelle icône en roue dentée avec le mot « Réglages », et un menu de 5 catégories (Apparence, Photos et PDF, Sauvegarde et corbeille, Collègues, Mises à jour).",
-    "Corbeille : une affaire supprimée est gardée 5 jours et peut être restaurée dans Réglages > Sauvegarde et corbeille. Après 5 jours, elle est effacée pour de bon avec ses photos.",
-    "Fiche : essais de cadence colorés (vert si la cadence visée est atteinte, orange en dessous), chiffres plus grands, pastille de cadence en haut de la fiche.",
-    "Photos : bouton « Tout » supprimé, et une petite icône à côté de « Sélectionner » pour passer des petites aux grandes vignettes.",
-    "Informations : Date et État sur la même ligne, zone de notes plus haute."
+    "Les miniatures des photos sont plus grandes et de meilleure qualité (les anciennes sont refaites automatiquement à la première ouverture d'une affaire).",
+    "Le bouton pour agrandir ou réduire les vignettes est supprimé : les photos s'affichent toujours en 3 colonnes.",
+    "Le bouton Réglages a la même taille que les deux autres boutons."
   ]
 }
