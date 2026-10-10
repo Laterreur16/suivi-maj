@@ -1,13 +1,9 @@
 {
-  "versionCode": 22,
-  "versionName": "1.21",
+  "versionCode": 23,
+  "versionName": "1.22",
   "apk": "suivi-affaires.apk",
-  "sha256": "c30a6c8e178ba88abae16d4ace6cfe81e3f2fbeea82c6e1cf636b3bb548e47cd",
+  "sha256": "9eb78f399cb581225670a0d829e5d439c2bce5e317bd6f333b7d4b4607d8b7fb",
   "notes": [
-    "Liste refaite : cartes avec photo et nombre de fichiers, pastille d'état, objectif et résultat de cadence (Act. en rouge sous l'objectif, Moy. en vert quand il est atteint), mois repliables.",
-    "Sur chaque carte : raccourcis Notes, Photos et Réglages qui ouvrent la fiche directement à cette partie, bouton appareil photo, et menu ⋮ (marquer terminée ou en cours, partager le PDF, mettre à la corbeille).",
-    "Barre du bas : Affaires, + Nouvelle affaire et Paramètres. La roue dentée en haut à droite est supprimée. Les anciens « Réglages » de l'appli s'appellent maintenant « Paramètres ».",
-    "Nouvelle partie « Réglages du bol » dans la fiche : fréquence (Hz), amplitude (%) et une remarque. Elle apparaît aussi dans le PDF.",
-    "Les filtres Toutes / En cours / Terminées reviennent, avec une pastille de couleur et le nombre d'affaires."
+    "Textes, boutons, pastilles et marges de la liste réduits pour coller à la maquette : on voit plus d'affaires à l'écran, et l'objectif et le résultat de cadence tiennent sur une seule ligne."
   ]
 }
