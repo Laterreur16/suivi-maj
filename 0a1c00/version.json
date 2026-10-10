@@ -1,9 +1,10 @@
 {
-  "versionCode": 23,
-  "versionName": "1.22",
+  "versionCode": 24,
+  "versionName": "1.23",
   "apk": "suivi-affaires.apk",
-  "sha256": "9eb78f399cb581225670a0d829e5d439c2bce5e317bd6f333b7d4b4607d8b7fb",
+  "sha256": "129628b1b802661117ea2eade8e44d1fc398af083606bb06eba47b7141697dc1",
   "notes": [
-    "Textes, boutons, pastilles et marges de la liste réduits pour coller à la maquette : on voit plus d'affaires à l'écran, et l'objectif et le résultat de cadence tiennent sur une seule ligne."
+    "Liste : plus de pastille avec le nombre de photos sur l'icône, ni de flèche à droite. Boutons Notes, Photos et Réglages redessinés comme sur la maquette.",
+    "Réglages du bol : la ligne « Autre réglage » est supprimée (fréquence et amplitude uniquement)."
   ]
 }
