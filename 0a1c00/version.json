@@ -1,11 +1,11 @@
 {
-  "versionCode": 30,
-  "versionName": "1.29",
+  "versionCode": 32,
+  "versionName": "1.31",
   "apk": "suivi-affaires.apk",
-  "sha256": "4ca4c2d3b4b8c167a5509b0af6fb1cab520e762281015bd969be2615416d234d",
+  "sha256": "cd9eaf534fcda930df25bc25ded976294f45f660a91de29043913927e774898c",
   "notes": [
-    "Nouvelle icône par défaut (bol ardoise et or).",
-    "Paramètres > Apparence > « Icône de l'application » : tu peux revenir à l'ancienne icône marine et or. Le PDF suit ton choix.",
-    "Sur certains téléphones, l'icône de l'écran d'accueil met quelques secondes à se rafraîchir."
+    "Les trois points ouvrent maintenant un petit menu juste à côté du bouton (partager, terminer, corbeille), y compris pour « Autres façons de partager ».",
+    "Deux nouvelles icônes au choix dans Paramètres > Apparence : « Cerveau » et « Bol et pièces ».",
+    "La rubrique « Aperçu » des Paramètres est supprimée."
   ]
 }
