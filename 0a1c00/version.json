@@ -1,11 +1,10 @@
 {
-  "versionCode": 27,
-  "versionName": "1.26",
+  "versionCode": 28,
+  "versionName": "1.27",
   "apk": "suivi-affaires.apk",
-  "sha256": "9c6f4749a4869f945e103e3753d5488c4fecdc79691695ff08fb06ad2421f1a2",
+  "sha256": "63822b1493a9f9551f679c5937f2f09b93a981f060439a855dc7d86ed2e088bf",
   "notes": [
-    "Fiche refaite comme la maquette : en-tête avec objectif, moyenne et résultat, photos en ligne avec « Tout voir », jauge et graphique de cadence, saisie des 10 essais sur une ligne.",
-    "Réglages du bol : bouton « Historique des réglages » pour retrouver et remettre d'anciennes valeurs.",
-    "Notes avec la date de dernière modification, informations et corbeille redessinées. Menu ⋮ en haut à droite."
+    "PDF refait comme l'exemple : bandeau bleu avec l'icône de l'appli, tuiles date, état et objectif, résultats de cadence, graphique à barres avec la ligne d'objectif, réglages et notes côte à côte, puis pages de photos.",
+    "Nouvelle icône de l'application (bol vibrant doré)."
   ]
 }
