@@ -1,11 +1,11 @@
 {
-  "versionCode": 29,
-  "versionName": "1.28",
+  "versionCode": 30,
+  "versionName": "1.29",
   "apk": "suivi-affaires.apk",
-  "sha256": "1d5872567d44204d9ed557dfcd0433ea8c5224789dcff00126ebf3c0b505ca5e",
+  "sha256": "4ca4c2d3b4b8c167a5509b0af6fb1cab520e762281015bd969be2615416d234d",
   "notes": [
-    "Fiche plus compacte, comme la maquette : en-tête avec la bande Objectif / Moyenne / Résultat à côté de l'icône, textes et boutons plus petits.",
-    "Plus de « Enregistré » ni de bouton « Partager » en haut : tout est dans le menu ⋮ (qui propose aussi les autres façons de partager).",
-    "Le nom de la pièce se modifie dans « Informations »."
+    "Nouvelle icône par défaut (bol ardoise et or).",
+    "Paramètres > Apparence > « Icône de l'application » : tu peux revenir à l'ancienne icône marine et or. Le PDF suit ton choix.",
+    "Sur certains téléphones, l'icône de l'écran d'accueil met quelques secondes à se rafraîchir."
   ]
 }
