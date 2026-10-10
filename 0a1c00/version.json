@@ -1,11 +1,10 @@
 {
-  "versionCode": 32,
-  "versionName": "1.31",
+  "versionCode": 34,
+  "versionName": "1.33",
   "apk": "suivi-affaires.apk",
-  "sha256": "cd9eaf534fcda930df25bc25ded976294f45f660a91de29043913927e774898c",
+  "sha256": "1e32bc8ae64f207740c0b5807306288e4baaa2250e27cdde9572317cdd21f8b8",
   "notes": [
-    "Les trois points ouvrent maintenant un petit menu juste à côté du bouton (partager, terminer, corbeille), y compris pour « Autres façons de partager ».",
-    "Deux nouvelles icônes au choix dans Paramètres > Apparence : « Cerveau » et « Bol et pièces ».",
-    "La rubrique « Aperçu » des Paramètres est supprimée."
+    "Paramètres > Apparence > « Icône personnalisée » : choisis le dessin, la couleur du fond (teinte, intensité, clarté) et sa transparence, avec aperçu en direct.",
+    "Bouton « Ajouter à l'écran d'accueil » : l'icône apparaît comme un raccourci. Le PDF reprend ton icône personnalisée."
   ]
 }
