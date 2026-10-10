@@ -1,13 +1,13 @@
 {
-  "versionCode": 21,
-  "versionName": "1.20",
+  "versionCode": 22,
+  "versionName": "1.21",
   "apk": "suivi-affaires.apk",
-  "sha256": "b6b784fff3d9926bccb975f62c2ec7c91c2def50d2c08da037a056fc82c73218",
+  "sha256": "c30a6c8e178ba88abae16d4ace6cfe81e3f2fbeea82c6e1cf636b3bb548e47cd",
   "notes": [
-    "Les réglages d'apparence reviennent comme en 1.18 (les ajouts de la 1.19 sont retirés).",
-    "Liste : les boutons « Toutes / En cours / Terminée » sont supprimés (l'état est déjà écrit sur chaque affaire).",
-    "Icône de l'affaire : touche l'icône dans la fiche pour zoomer et déplacer l'échantillon (deux doigts ou curseur), changer de photo, puis enregistrer. Le réglage est gardé pour le modifier plus tard.",
-    "PDF refait : bandeau à la couleur de l'appli avec l'icône de l'affaire, cartes Date/État/Cadence, essais en cases vertes ou orange, photos plus grandes aux coins arrondis, pied de page.",
-    "Export : nouvelle case « Joindre les photos en fichiers » pour envoyer les photos avec le PDF et les enregistrer sur l'ordinateur."
+    "Liste refaite : cartes avec photo et nombre de fichiers, pastille d'état, objectif et résultat de cadence (Act. en rouge sous l'objectif, Moy. en vert quand il est atteint), mois repliables.",
+    "Sur chaque carte : raccourcis Notes, Photos et Réglages qui ouvrent la fiche directement à cette partie, bouton appareil photo, et menu ⋮ (marquer terminée ou en cours, partager le PDF, mettre à la corbeille).",
+    "Barre du bas : Affaires, + Nouvelle affaire et Paramètres. La roue dentée en haut à droite est supprimée. Les anciens « Réglages » de l'appli s'appellent maintenant « Paramètres ».",
+    "Nouvelle partie « Réglages du bol » dans la fiche : fréquence (Hz), amplitude (%) et une remarque. Elle apparaît aussi dans le PDF.",
+    "Les filtres Toutes / En cours / Terminées reviennent, avec une pastille de couleur et le nombre d'affaires."
   ]
 }
