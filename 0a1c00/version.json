@@ -1,10 +1,9 @@
 {
-  "versionCode": 24,
-  "versionName": "1.23",
+  "versionCode": 25,
+  "versionName": "1.24",
   "apk": "suivi-affaires.apk",
-  "sha256": "129628b1b802661117ea2eade8e44d1fc398af083606bb06eba47b7141697dc1",
+  "sha256": "1c762bcc13c3cd530528db79c87ca57b69c3ccd7329439717b0d2f446dbc2c65",
   "notes": [
-    "Liste : plus de pastille avec le nombre de photos sur l'icône, ni de flèche à droite. Boutons Notes, Photos et Réglages redessinés comme sur la maquette.",
-    "Réglages du bol : la ligne « Autre réglage » est supprimée (fréquence et amplitude uniquement)."
+    "Tailles du texte, des filtres, des cartes, des boutons et de la barre du bas ajustées d'après la comparaison avec la maquette : plus petit, plus épuré, plus d'affaires visibles à l'écran."
   ]
 }
