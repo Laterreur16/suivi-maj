@@ -1,11 +1,11 @@
 {
-  "versionCode": 35,
-  "versionName": "1.34",
+  "versionCode": 37,
+  "versionName": "1.36",
   "apk": "suivi-affaires.apk",
-  "sha256": "001020454878ce17830de6429f6d93553bfbc846b417d46d27392f22c9d485a8",
+  "sha256": "5faf6f3d0c764d1ea9b017148ea5462d8521ecb7944d530fb9a40503ea4d6d0a",
   "notes": [
-    "Création du PDF environ 3 fois plus rapide : les photos déjà réduites sont insérées telles quelles et plusieurs photos sont préparées en même temps. Le PDF est aussi un peu plus léger.",
-    "Liste des affaires plus fluide quand elle est longue.",
-    "Retour en arrière : la personnalisation libre du fond des icônes est retirée (les 4 icônes au choix restent)."
+    "Paramètres > Apparence > Style : « Classique » (comme avant, par défaut), « Ardoise & Or » (assorti à l'icône par défaut) ou « Marine & Or » (ivoire en clair, bleu nuit et or en sombre).",
+    "Rien ne change tant que tu ne choisis pas un autre style. Le choix de la couleur reste disponible avec « Classique ».",
+    "Le PDF reprend la couleur du style choisi."
   ]
 }
