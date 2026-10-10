@@ -1,9 +1,11 @@
 {
-  "versionCode": 25,
-  "versionName": "1.24",
+  "versionCode": 26,
+  "versionName": "1.25",
   "apk": "suivi-affaires.apk",
-  "sha256": "1c762bcc13c3cd530528db79c87ca57b69c3ccd7329439717b0d2f446dbc2c65",
+  "sha256": "2e12313962cd921866a9938dbd4f4219b7b5a5d5014dec2acd7567d64225cb25",
   "notes": [
-    "Tailles du texte, des filtres, des cartes, des boutons et de la barre du bas ajustées d'après la comparaison avec la maquette : plus petit, plus épuré, plus d'affaires visibles à l'écran."
+    "L'appli cherche toute seule une nouvelle version à l'ouverture et quand tu reviens dedans : un point rouge apparaît sur « Paramètres » en bas.",
+    "Tous les Paramètres sont redessinés (Apparence, Photos et PDF, Sauvegarde, Collègues, Mises à jour).",
+    "Qualité des photos : Économique 800 px, Équilibrée 1280 px, Haute 1920 px."
   ]
 }
