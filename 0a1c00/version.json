@@ -1,11 +1,11 @@
 {
-  "versionCode": 26,
-  "versionName": "1.25",
+  "versionCode": 27,
+  "versionName": "1.26",
   "apk": "suivi-affaires.apk",
-  "sha256": "2e12313962cd921866a9938dbd4f4219b7b5a5d5014dec2acd7567d64225cb25",
+  "sha256": "9c6f4749a4869f945e103e3753d5488c4fecdc79691695ff08fb06ad2421f1a2",
   "notes": [
-    "L'appli cherche toute seule une nouvelle version à l'ouverture et quand tu reviens dedans : un point rouge apparaît sur « Paramètres » en bas.",
-    "Tous les Paramètres sont redessinés (Apparence, Photos et PDF, Sauvegarde, Collègues, Mises à jour).",
-    "Qualité des photos : Économique 800 px, Équilibrée 1280 px, Haute 1920 px."
+    "Fiche refaite comme la maquette : en-tête avec objectif, moyenne et résultat, photos en ligne avec « Tout voir », jauge et graphique de cadence, saisie des 10 essais sur une ligne.",
+    "Réglages du bol : bouton « Historique des réglages » pour retrouver et remettre d'anciennes valeurs.",
+    "Notes avec la date de dernière modification, informations et corbeille redessinées. Menu ⋮ en haut à droite."
   ]
 }
