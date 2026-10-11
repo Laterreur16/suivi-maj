@@ -1,9 +1,9 @@
 {
-  "versionCode": 39,
-  "versionName": "1.38",
+  "versionCode": 40,
+  "versionName": "1.39",
   "apk": "suivi-affaires.apk",
-  "sha256": "f1f86399542839aa1314cebf0ae7b01480455e0c02f554cd533f8a75b9a1bb4d",
+  "sha256": "abe5c0b3c843a6dd02164c9d18cb9502061e12053615aec8a77a24966fc435a4",
   "notes": [
-    "Textes plus fins, cartes et boutons plus compacts dans le nouveau design de la liste, pour coller à la maquette."
+    "Textes, boutons, miniatures et carrousel du nouveau design de la liste recalés sur la maquette."
   ]
 }
