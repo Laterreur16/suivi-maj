@@ -1,9 +1,9 @@
 {
-  "versionCode": 45,
-  "versionName": "1.44",
+  "versionCode": 46,
+  "versionName": "1.45",
   "apk": "suivi-affaires.apk",
-  "sha256": "722bbe02312d42dec08a72328788f5d1144cd4f16867d3cd41d852e16da95146",
+  "sha256": "ef44123f44704a6299aef0597656964c1e3dedd648bcb34a022f545b6b55f46c",
   "notes": [
-    "Titre « Affaires » et boutons liste/icônes plus petits, barre du bas réduite, espaces resserrés : la quatrième affaire tient à l'écran."
+    "Barre du bas un peu plus haute : la quatrième affaire s'arrête juste au-dessus."
   ]
 }
