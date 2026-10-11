@@ -1,9 +1,10 @@
 {
-  "versionCode": 48,
-  "versionName": "1.47",
+  "versionCode": 49,
+  "versionName": "1.48",
   "apk": "suivi-affaires.apk",
-  "sha256": "8ad1b2b5e8139d71fa90e9b8957c5ac7b8636d34e1382e9b1349c100b34038e0",
+  "sha256": "ec2a24bf61bf99a438584caffca78cf98e530585d629dec208d34e50b433640b",
   "notes": [
-    "Même contenu que la 1.46 (barre du bas automatique), nouveau numéro de version pour pouvoir réinstaller."
+    "Les 3 affaires récentes du carrousel ne sont plus répétées dans la liste en dessous.",
+    "Le carrousel apparaît en tri « Récentes », sans recherche, quand il y a plus de 3 affaires. La barre du bas s'ajuste sur la dernière affaire entièrement visible."
   ]
 }
