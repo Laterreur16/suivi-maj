@@ -1,10 +1,11 @@
 {
-  "versionCode": 49,
-  "versionName": "1.48",
+  "versionCode": 50,
+  "versionName": "1.49",
   "apk": "suivi-affaires.apk",
-  "sha256": "ec2a24bf61bf99a438584caffca78cf98e530585d629dec208d34e50b433640b",
+  "sha256": "14fb2212b541728a8e266eb0a6d71d9da7ea1ca345b929e3f2fd0132aa1f4867",
   "notes": [
-    "Les 3 affaires récentes du carrousel ne sont plus répétées dans la liste en dessous.",
-    "Le carrousel apparaît en tri « Récentes », sans recherche, quand il y a plus de 3 affaires. La barre du bas s'ajuste sur la dernière affaire entièrement visible."
+    "Le nouveau design reste toujours en liste : plus de boutons liste / icônes en haut, ni de réglage « Affichage de la liste » (il reste pour le design Original).",
+    "« Voir tout » retiré du carrousel.",
+    "Cartes de la liste : les boutons Notes, Photos et Réglages laissent la place à l'objectif et à la moyenne, sans gêner le bouton photo."
   ]
 }
