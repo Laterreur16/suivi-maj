@@ -1,11 +1,9 @@
 {
-  "versionCode": 38,
-  "versionName": "1.37",
+  "versionCode": 39,
+  "versionName": "1.38",
   "apk": "suivi-affaires.apk",
-  "sha256": "91cac103724cec66202eb01b1de9ad7649791bffd784f286721f52285e18fae9",
+  "sha256": "4c0cbd440885627e6bd2af319e0fa2819189be62472fd347f8f13442c13a019d",
   "notes": [
-    "Paramètres > Apparence > Design : « Original » (comme avant, par défaut) ou « Nouveau ».",
-    "Le nouveau design de la liste : bandeau « Affaires récentes » avec les photos, frise bleue par mois, cartes plus compactes avec l'objectif et la moyenne à droite, filtres sans compteur.",
-    "Seule la liste change, la fiche d'une affaire reste comme avant. Le nouveau design marche avec tous les styles et couleurs."
+    "Textes plus fins, cartes et boutons plus compacts dans le nouveau design de la liste, pour coller à la maquette."
   ]
 }
