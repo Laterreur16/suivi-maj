@@ -1,10 +1,9 @@
 {
-  "versionCode": 44,
-  "versionName": "1.43",
+  "versionCode": 45,
+  "versionName": "1.44",
   "apk": "suivi-affaires.apk",
-  "sha256": "5fca52f64b05bc37f6ab935882c3174b160057bff1fae242174119f4447048b7",
+  "sha256": "722bbe02312d42dec08a72328788f5d1144cd4f16867d3cd41d852e16da95146",
   "notes": [
-    "En-tête, recherche, filtres, carrousel et cartes resserrés d'après la maquette : on voit plus d'affaires à l'écran.",
-    "Vague bleue en haut à droite plus marquée."
+    "Titre « Affaires » et boutons liste/icônes plus petits, barre du bas réduite, espaces resserrés : la quatrième affaire tient à l'écran."
   ]
 }
