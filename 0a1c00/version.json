@@ -1,11 +1,9 @@
 {
-  "versionCode": 50,
-  "versionName": "1.49",
+  "versionCode": 51,
+  "versionName": "1.50",
   "apk": "suivi-affaires.apk",
-  "sha256": "14fb2212b541728a8e266eb0a6d71d9da7ea1ca345b929e3f2fd0132aa1f4867",
+  "sha256": "4188470331fffe2e204d5cad81e3f4a7a53438b683de373c2d445e27497fcb9e",
   "notes": [
-    "Le nouveau design reste toujours en liste : plus de boutons liste / icônes en haut, ni de réglage « Affichage de la liste » (il reste pour le design Original).",
-    "« Voir tout » retiré du carrousel.",
-    "Cartes de la liste : les boutons Notes, Photos et Réglages laissent la place à l'objectif et à la moyenne, sans gêner le bouton photo."
+    "Dans le nouveau design, le bouton rond pour prendre une photo rapidement est plus grand sur chaque carte."
   ]
 }
