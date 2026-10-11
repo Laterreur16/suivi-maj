@@ -1,11 +1,11 @@
 {
-  "versionCode": 37,
-  "versionName": "1.36",
+  "versionCode": 38,
+  "versionName": "1.37",
   "apk": "suivi-affaires.apk",
-  "sha256": "5faf6f3d0c764d1ea9b017148ea5462d8521ecb7944d530fb9a40503ea4d6d0a",
+  "sha256": "91cac103724cec66202eb01b1de9ad7649791bffd784f286721f52285e18fae9",
   "notes": [
-    "Paramètres > Apparence > Style : « Classique » (comme avant, par défaut), « Ardoise & Or » (assorti à l'icône par défaut) ou « Marine & Or » (ivoire en clair, bleu nuit et or en sombre).",
-    "Rien ne change tant que tu ne choisis pas un autre style. Le choix de la couleur reste disponible avec « Classique ».",
-    "Le PDF reprend la couleur du style choisi."
+    "Paramètres > Apparence > Design : « Original » (comme avant, par défaut) ou « Nouveau ».",
+    "Le nouveau design de la liste : bandeau « Affaires récentes » avec les photos, frise bleue par mois, cartes plus compactes avec l'objectif et la moyenne à droite, filtres sans compteur.",
+    "Seule la liste change, la fiche d'une affaire reste comme avant. Le nouveau design marche avec tous les styles et couleurs."
   ]
 }
