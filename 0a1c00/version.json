@@ -1,9 +1,10 @@
 {
-  "versionCode": 41,
-  "versionName": "1.40",
+  "versionCode": 43,
+  "versionName": "1.42",
   "apk": "suivi-affaires.apk",
-  "sha256": "dcae3e7cc972bf6be8584c930bf564fb9fb20f79181c7bb0dc4e19823c11b478",
+  "sha256": "5ed5ffc6e922afdf5049d5a977c9cf074158f65eac9ddc48051988f7765cd264",
   "notes": [
-    "Hauteur des cartes, miniature et espacement du texte recalés sur la maquette."
+    "Dans le nouveau design, la liste et le carrousel montrent la vraie photo de l'affaire en paysage (recadrée automatiquement) au lieu de l'icône carrée.",
+    "Le design Original ne change pas."
   ]
 }
