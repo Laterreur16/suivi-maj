@@ -1,9 +1,11 @@
 {
-  "versionCode": 46,
-  "versionName": "1.45",
+  "versionCode": 47,
+  "versionName": "1.46",
   "apk": "suivi-affaires.apk",
-  "sha256": "ef44123f44704a6299aef0597656964c1e3dedd648bcb34a022f545b6b55f46c",
+  "sha256": "9c27e58f7fb4b545dd16304114577359f4d3229c25ff74a84d3719dc3b665df8",
   "notes": [
-    "Barre du bas un peu plus haute : la quatrième affaire s'arrête juste au-dessus."
+    "Le titre « Affaires », le nombre d'affaires et les boutons liste/icônes sont retirés en haut de la liste (le choix liste/icônes reste dans Paramètres > Apparence).",
+    "Les filtres Toutes / En cours / Terminées sont retirés : la recherche est maintenant tout en haut.",
+    "Les cartes de la liste sont un peu plus grandes (photo, textes, boutons) et s'arrêtent au-dessus de la barre du bas."
   ]
 }
