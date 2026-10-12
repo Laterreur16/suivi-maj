@@ -1,9 +1,11 @@
 {
-  "versionCode": 51,
-  "versionName": "1.50",
+  "versionCode": 53,
+  "versionName": "1.52",
   "apk": "suivi-affaires.apk",
-  "sha256": "4188470331fffe2e204d5cad81e3f4a7a53438b683de373c2d445e27497fcb9e",
+  "sha256": "48f78da90206da9575f14243d27d71ccfa7e48ab2d9639e970ea22e28c3dd38b",
   "notes": [
-    "Dans le nouveau design, le bouton rond pour prendre une photo rapidement est plus grand sur chaque carte."
+    "La photo ou la vidéo apparaît dans l'affaire dès que tu la valides, sans attendre l'enregistrement.",
+    "L'enregistrement et la réduction se font ensuite en arrière-plan ; tu peux continuer à utiliser l'appli.",
+    "Si l'enregistrement échoue (téléphone plein…), la photo est retirée et un message l'indique."
   ]
 }
