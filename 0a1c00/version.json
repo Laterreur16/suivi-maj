@@ -1,9 +1,9 @@
 {
-  "versionCode": 54,
-  "versionName": "1.53",
+  "versionCode": 55,
+  "versionName": "1.54",
   "apk": "suivi-affaires.apk",
-  "sha256": "480fddb957a70d84f22516d7d3256055398edbaa794ab25da83e463ce4a60167",
+  "sha256": "481d213a0ddfd5d6bf1fef2bf1a169f2cc7dd77134a0cee912811df588ce58e8",
   "notes": [
-    "Nouveau design : dans « Affaires récentes », l'étiquette En cours / Terminée est remplacée par une petite pastille ronde (orange = en cours, verte avec coche = terminée), pour voir toute la photo."
+    "La pastille ronde (en cours / terminée) sur les photos des affaires récentes est plus petite."
   ]
 }
