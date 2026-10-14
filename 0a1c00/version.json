@@ -1,9 +1,10 @@
 {
-  "versionCode": 55,
-  "versionName": "1.54",
+  "versionCode": 56,
+  "versionName": "1.55",
   "apk": "suivi-affaires.apk",
-  "sha256": "481d213a0ddfd5d6bf1fef2bf1a169f2cc7dd77134a0cee912811df588ce58e8",
+  "sha256": "22d103996473e2584866fd1a0e32be40c21ef8b53f402e794fb64271d641824b",
   "notes": [
-    "La pastille ronde (en cours / terminée) sur les photos des affaires récentes est plus petite."
+    "La barre Affaires / Nouvelle affaire / Paramètres garde toujours la même hauteur : elle ne grandit plus et laisse voir la 4e affaire.",
+    "Une affaire sans cadence n'a plus de grand vide sous son nom : sa carte est plus compacte."
   ]
 }
