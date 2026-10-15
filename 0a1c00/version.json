@@ -1,9 +1,11 @@
 {
-  "versionCode": 57,
-  "versionName": "1.56",
+  "versionCode": 58,
+  "versionName": "1.57",
   "apk": "suivi-affaires.apk",
-  "sha256": "5f987d919fc1b2ac0892eea214a2679a46740a26ceb0e639041b85ebf1f94bd5",
+  "sha256": "6c4a95f09265df57a44313b6a08a3ce7e8e0487b032a48b10eac75d25338334d",
   "notes": [
-    "Cartes de la liste un peu plus compactes (ligne de cadence resserrée) : la 4e affaire se lit avec sa cadence au-dessus de la barre du bas, comme sur la maquette."
+    "Nouvelle partie « Chronomètre » entre « Cadence des pièces » et « Réglages du bol » : choisis 1, 5 ou 10 minutes puis Démarrer.",
+    "Pause, reprise et remise à zéro. À la fin, le téléphone sonne et vibre, même si tu as changé d'écran.",
+    "L'écran reste allumé pendant que le chronomètre tourne."
   ]
 }
