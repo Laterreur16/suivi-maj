@@ -1,11 +1,11 @@
 {
-  "versionCode": 58,
-  "versionName": "1.57",
+  "versionCode": 59,
+  "versionName": "1.58",
   "apk": "suivi-affaires.apk",
-  "sha256": "6c4a95f09265df57a44313b6a08a3ce7e8e0487b032a48b10eac75d25338334d",
+  "sha256": "872cd83331bdb0c133185970c26dc3ab097708280c2a85b2fc59ab14e06ac1ea",
   "notes": [
-    "Nouvelle partie « Chronomètre » entre « Cadence des pièces » et « Réglages du bol » : choisis 1, 5 ou 10 minutes puis Démarrer.",
-    "Pause, reprise et remise à zéro. À la fin, le téléphone sonne et vibre, même si tu as changé d'écran.",
-    "L'écran reste allumé pendant que le chronomètre tourne."
+    "Nouveau bouton « Enregistrer » : dans la barre de sélection (plusieurs photos ou vidéos à la fois) et dans la visionneuse (un seul fichier). Les fichiers vont dans la galerie du téléphone, dossier « Suivi affaires ».",
+    "Vidéo : le gros bouton play au milieu est supprimé. Touche la vidéo pour la mettre en pause ou en lecture, avec une barre de lecture simple en bas.",
+    "Vidéo : tu peux zoomer en pincer ou en double-touchant, en lecture comme en pause, et déplacer l'image zoomée."
   ]
 }
