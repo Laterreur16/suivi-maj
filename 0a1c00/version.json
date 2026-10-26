@@ -1,11 +1,14 @@
 {
-  "versionCode": 59,
-  "versionName": "1.58",
+  "versionCode": 60,
+  "versionName": "1.59",
   "apk": "suivi-affaires.apk",
-  "sha256": "872cd83331bdb0c133185970c26dc3ab097708280c2a85b2fc59ab14e06ac1ea",
+  "sha256": "5ea41a276c9d7c0390261084fb55aa73a6d0888c9e0aae91f85f085ff5abbb82",
   "notes": [
-    "Nouveau bouton « Enregistrer » : dans la barre de sélection (plusieurs photos ou vidéos à la fois) et dans la visionneuse (un seul fichier). Les fichiers vont dans la galerie du téléphone, dossier « Suivi affaires ».",
-    "Vidéo : le gros bouton play au milieu est supprimé. Touche la vidéo pour la mettre en pause ou en lecture, avec une barre de lecture simple en bas.",
-    "Vidéo : tu peux zoomer en pincer ou en double-touchant, en lecture comme en pause, et déplacer l'image zoomée."
+    "Paramètres > Photos, vidéos et PDF : nouveau choix « Qualité des nouvelles vidéos » : Originale (telle que filmée), Full HD (1080p) ou HD (720p). Avec Full HD ou HD, la vidéo est allégée en arrière-plan juste après l'avoir filmée ou ajoutée.",
+    "L'appli demande maintenant à l'appareil photo sa meilleure qualité vidéo.",
+    "Nouveau bouton « Alléger les vidéos existantes » (Paramètres), et « Alléger la vidéo » dans la visionneuse pour une seule vidéo.",
+    "« Espace utilisé » sépare la place prise par les photos et par les vidéos.",
+    "Photos et vidéos : avec « Tout voir », la plus récente est en haut à gauche et la plus ancienne tout en bas.",
+    "Chronomètre : il sonne et vibre à l'heure même si le téléphone s'est mis en veille ou si l'appli a été fermée."
   ]
 }
