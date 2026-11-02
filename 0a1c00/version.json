@@ -1,14 +1,19 @@
 {
-  "versionCode": 60,
-  "versionName": "1.59",
+  "versionCode": 61,
+  "versionName": "1.60",
   "apk": "suivi-affaires.apk",
-  "sha256": "5ea41a276c9d7c0390261084fb55aa73a6d0888c9e0aae91f85f085ff5abbb82",
+  "sha256": "6145eb33cdeaf6538a3fe5115647dc9e0dec188f31d263a2e1ff9803b64f3484",
   "notes": [
-    "Paramètres > Photos, vidéos et PDF : nouveau choix « Qualité des nouvelles vidéos » : Originale (telle que filmée), Full HD (1080p) ou HD (720p). Avec Full HD ou HD, la vidéo est allégée en arrière-plan juste après l'avoir filmée ou ajoutée.",
-    "L'appli demande maintenant à l'appareil photo sa meilleure qualité vidéo.",
-    "Nouveau bouton « Alléger les vidéos existantes » (Paramètres), et « Alléger la vidéo » dans la visionneuse pour une seule vidéo.",
-    "« Espace utilisé » sépare la place prise par les photos et par les vidéos.",
-    "Photos et vidéos : avec « Tout voir », la plus récente est en haut à gauche et la plus ancienne tout en bas.",
-    "Chronomètre : il sonne et vibre à l'heure même si le téléphone s'est mis en veille ou si l'appli a été fermée."
+    "Fiche : « Réglages du bol » en grandes cases, « Notes » avec la date sous le titre, « Informations » en lignes bien lisibles. L'état se choisit avec deux boutons « En cours / Terminée ».",
+    "Les listes de choix (tri de la liste, fréquence de sauvegarde) s'ouvrent dans un menu arrondi aux couleurs de l'appli.",
+    "Photos et vidéos : la plus récente est toujours à gauche. Celles ajoutées depuis la galerie sont rangées par date de prise de vue.",
+    "Rappel de sauvegarde : « Plus tard » le cache pendant 30 jours.",
+    "Visionneuse : le mot « null » sous les photos a disparu et « Définir comme icône » est bien centré.",
+    "Restaurer une sauvegarde : tu choisis d'ajouter seulement les affaires qui manquent (rien n'est écrasé) ou de tout remplacer.",
+    "Corbeille : une affaire revenue par une sauvegarde ou un collègue ne peut plus être effacée par erreur.",
+    "PDF : les notes ne dépassent plus de leur cadre et les notes longues continuent sur la page suivante.",
+    "« Vers Google Drive » ne compte comme sauvegarde que si tu choisis vraiment une appli.",
+    "Le passage du téléphone en mode sombre ou clair ne relance plus l'appli.",
+    "Autres corrections : « Objectif atteint » avec les nombres à virgule, filtre d'année, bouton retour qui ferme d'abord les menus, confirmation avant « Alléger les photos », bouton « Installer » si la fenêtre d'installation a été fermée."
   ]
 }
