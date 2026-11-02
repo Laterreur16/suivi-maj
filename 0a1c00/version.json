@@ -1,19 +1,14 @@
 {
-  "versionCode": 61,
-  "versionName": "1.60",
+  "versionCode": 62,
+  "versionName": "1.61",
   "apk": "suivi-affaires.apk",
-  "sha256": "6145eb33cdeaf6538a3fe5115647dc9e0dec188f31d263a2e1ff9803b64f3484",
+  "sha256": "4e6f3c54d68b5a62afa2b428b2d8995c6bd5f585bcd6284f4621e55e102a5535",
   "notes": [
-    "Fiche : « Réglages du bol » en grandes cases, « Notes » avec la date sous le titre, « Informations » en lignes bien lisibles. L'état se choisit avec deux boutons « En cours / Terminée ».",
-    "Les listes de choix (tri de la liste, fréquence de sauvegarde) s'ouvrent dans un menu arrondi aux couleurs de l'appli.",
-    "Photos et vidéos : la plus récente est toujours à gauche. Celles ajoutées depuis la galerie sont rangées par date de prise de vue.",
-    "Rappel de sauvegarde : « Plus tard » le cache pendant 30 jours.",
-    "Visionneuse : le mot « null » sous les photos a disparu et « Définir comme icône » est bien centré.",
-    "Restaurer une sauvegarde : tu choisis d'ajouter seulement les affaires qui manquent (rien n'est écrasé) ou de tout remplacer.",
-    "Corbeille : une affaire revenue par une sauvegarde ou un collègue ne peut plus être effacée par erreur.",
-    "PDF : les notes ne dépassent plus de leur cadre et les notes longues continuent sur la page suivante.",
-    "« Vers Google Drive » ne compte comme sauvegarde que si tu choisis vraiment une appli.",
-    "Le passage du téléphone en mode sombre ou clair ne relance plus l'appli.",
-    "Autres corrections : « Objectif atteint » avec les nombres à virgule, filtre d'année, bouton retour qui ferme d'abord les menus, confirmation avant « Alléger les photos », bouton « Installer » si la fenêtre d'installation a été fermée."
+    "Sauvegarde, fiche PDF, partage et « Enregistrer » dans la galerie : les fichiers passent directement à Android, sans conversion en texte. Plus rapide et moins gourmand, surtout avec des vidéos.",
+    "Vidéos : l'allègement démarre tout de suite, en même temps que l'enregistrement, au lieu d'attendre la fin de celui-ci.",
+    "Photos : la réduction se fait en arrière-plan, l'écran reste fluide pendant l'ajout de plusieurs photos.",
+    "Visionneuse : la photo suivante et la précédente sont préparées à l'avance, le glissement est instantané.",
+    "Miniatures et photos de couverture lues en une seule fois, recherche plus fluide, « Espace utilisé » plus rapide à afficher.",
+    "Plusieurs vidéos ajoutées d'un coup : leurs aperçus sont créés l'un après l'autre (plus d'aperçu manquant)."
   ]
 }
