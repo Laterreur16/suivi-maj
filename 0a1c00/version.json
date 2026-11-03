@@ -1,14 +1,14 @@
 {
-  "versionCode": 62,
-  "versionName": "1.61",
+  "versionCode": 63,
+  "versionName": "1.62",
   "apk": "suivi-affaires.apk",
-  "sha256": "4e6f3c54d68b5a62afa2b428b2d8995c6bd5f585bcd6284f4621e55e102a5535",
+  "sha256": "691dad012094061bc8c66f40eebca5552515ed1c0ea194cf6675686bcec4ea9b",
   "notes": [
-    "Sauvegarde, fiche PDF, partage et « Enregistrer » dans la galerie : les fichiers passent directement à Android, sans conversion en texte. Plus rapide et moins gourmand, surtout avec des vidéos.",
-    "Vidéos : l'allègement démarre tout de suite, en même temps que l'enregistrement, au lieu d'attendre la fin de celui-ci.",
-    "Photos : la réduction se fait en arrière-plan, l'écran reste fluide pendant l'ajout de plusieurs photos.",
-    "Visionneuse : la photo suivante et la précédente sont préparées à l'avance, le glissement est instantané.",
-    "Miniatures et photos de couverture lues en une seule fois, recherche plus fluide, « Espace utilisé » plus rapide à afficher.",
-    "Plusieurs vidéos ajoutées d'un coup : leurs aperçus sont créés l'un après l'autre (plus d'aperçu manquant)."
+    "Liste : avec plusieurs pièces, une seule pastille par pièce (nom, moyenne / objectif, vert ou rouge) au lieu des étiquettes empilées.",
+    "Liste : le bouton photo ne recouvre plus la cadence, il est aligné sur les boutons Notes, Photos et Réglages.",
+    "Partout « Moy. » au lieu de « Act. » : vert si l'objectif est atteint, rouge avec une flèche vers le bas sinon.",
+    "Fiche : avec plusieurs pièces, le résumé du haut compte les pièces qui atteignent l'objectif (avant, il ne regardait que la première).",
+    "Fiche : le bouton « Depuis la galerie » n'est plus coupé.",
+    "Nouveau design : nombre d'affaires dans les filtres, et les affaires récentes restent aussi dans leur mois."
   ]
 }
