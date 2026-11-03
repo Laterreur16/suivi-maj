@@ -1,14 +1,11 @@
 {
-  "versionCode": 63,
-  "versionName": "1.62",
+  "versionCode": 64,
+  "versionName": "1.63",
   "apk": "suivi-affaires.apk",
-  "sha256": "691dad012094061bc8c66f40eebca5552515ed1c0ea194cf6675686bcec4ea9b",
+  "sha256": "b0a8618817f3111cabf1bae12b161f79b51ba57385b01769bd71e2d0a663f441",
   "notes": [
-    "Liste : avec plusieurs pièces, une seule pastille par pièce (nom, moyenne / objectif, vert ou rouge) au lieu des étiquettes empilées.",
-    "Liste : le bouton photo ne recouvre plus la cadence, il est aligné sur les boutons Notes, Photos et Réglages.",
-    "Partout « Moy. » au lieu de « Act. » : vert si l'objectif est atteint, rouge avec une flèche vers le bas sinon.",
-    "Fiche : avec plusieurs pièces, le résumé du haut compte les pièces qui atteignent l'objectif (avant, il ne regardait que la première).",
-    "Fiche : le bouton « Depuis la galerie » n'est plus coupé.",
-    "Nouveau design : nombre d'affaires dans les filtres, et les affaires récentes restent aussi dans leur mois."
+    "Nouveau design : les 3 affaires du bandeau « Affaires récentes » ne sont plus répétées dans les mois en dessous (comme avant la 1.62).",
+    "Nouveau design : les filtres Toutes / En cours / Terminées n'affichent plus le nombre d'affaires (comme avant).",
+    "Cadence sous l'objectif : de nouveau « Act. » en rouge avec le petit chrono (comme avant), « Moy. » en vert quand l'objectif est atteint."
   ]
 }
